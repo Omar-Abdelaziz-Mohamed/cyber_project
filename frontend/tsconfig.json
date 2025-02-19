@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "types": ["node"],  // إضافة هذا السطر لتحديد مكتبات الأنواع الخاصة بـ Node.js
+    "jsx": "react-jsx"
+
+  }
+}
